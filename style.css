@@ -1,0 +1,38 @@
+#blockstyle {
+width: 1000px;
+margin:auto;
+line-height: 1.5;
+}
+
+#header {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+#footer {
+  margin-top: 64px;
+  text-align: center;
+}
+
+p {
+  margin-bottom: 12px;
+}
+
+h1, h2, h3 {
+  font-weight: 400;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-size: 32px;
+  border-bottom: 1px solid grey;
+}
+
+h3 {
+  font-size: 20px;
+  border-bottom: 0px;
+}
